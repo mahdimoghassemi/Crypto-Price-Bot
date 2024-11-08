@@ -15,10 +15,6 @@ This is a Telegram bot that retrieves real-time prices for selected cryptocurren
 Crypto-Price-Bot/
 ├── config/
 │   └── config.py           # Contains API key and channel ID for security purposes
-│
-├── data/
-│   └── previous_prices.json # Stores previous day's prices for comparison
-│
 ├── src/
 │   ├── main.py             # Main script for executing the bot
 │   ├── price_checker.py    # Module to fetch cryptocurrency prices from Binance API
