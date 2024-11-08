@@ -8,3 +8,4 @@ def format_message(prices):
 
     🔶 PAXG (USDT): {prices['PAXG_USDT']} {prices['PAXG_USDT_change']}
     """
+    return message
